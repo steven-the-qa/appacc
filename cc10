@@ -1,0 +1,9 @@
+<figure>
+        <!-- Stacked bar chart will go here -->
+        <br>
+        <figcaption>Breakdown per week of time to spend training in stealth, combat, and weapons.</figcaption>
+      </figure>
+      
+ //Figure tags can house data visualizations like charts and graphs//
+ //It also adds semantic markup for screen reader users//
+ //Figcaption creates a text alternative that summaries these data visualizations//
