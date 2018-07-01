@@ -1,0 +1,19 @@
+//BEFORE//
+<div>
+    <h2>The Garfield Files: Lasagna as Training Fuel?</h2>
+    <p>The internet is littered with varying opinions on nutritional paradigms, from catnip paleo to hairball cleanses. But let's turn our attention to an often overlooked fitness fuel, and examine the protein-carb-NOM trifecta that is lasagna...</p>
+  </div>
+  
+  //AFTER//
+  <article>
+    <h2>The Garfield Files: Lasagna as Training Fuel?</h2>
+    <p>The internet is littered with varying opinions on nutritional paradigms, from catnip paleo to hairball cleanses. But let's turn our attention to an often overlooked fitness fuel, and examine the protein-carb-NOM trifecta that is lasagna...</p>
+  </article>
+
+//Article is more appropriate than div because this content can stand on its own//
+//SEMANTICALLY MEANINGFUL MARKUP IS IMPORTANT FOR USERS WHO RELY ON ASSISTIVE TECHNOLOGIES TO UNDERSTAND YOUR WORK//
+
+//Notes from freeCodeCamp's challenge below//
+/*<div> - groups content
+<section> - groups related content
+<article> - groups independent, self-contained content*/
