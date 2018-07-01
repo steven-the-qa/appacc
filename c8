@@ -1,0 +1,4 @@
+  <footer>&copy; 2016 Camper Cat</footer>
+
+//Landmark tags like header, nav, and footer have a built-in feature to help assistive technologies navigate directly to them//
+//Footers are used to contain site links and copyright information that sits at the bottom of a page//
