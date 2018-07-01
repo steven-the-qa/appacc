@@ -1,0 +1,12 @@
+<header>
+  <h1>Weapons of the Ninja</h1>
+</header>
+<main>
+</main>
+
+
+<footer></footer>
+
+//Main tags wrap around the main content of the page to assist screen readers in locating it right away//
+//Don't wrap navigation bars or other things that repeat across pages//
+//Only 1 main tag per page//
