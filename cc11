@@ -1,0 +1,4 @@
+<label for="email">Email:</label>
+      <input type="text" id="email" name="email">
+      
+      //Adding the "for" attribute to the label element and matching its value to the input element's id makes the label text clickable//
