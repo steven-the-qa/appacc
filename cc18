@@ -1,0 +1,9 @@
+ button {
+    color: #003366;
+    background-color: #FFFF33;
+    font-size: 14px;
+    padding: 10px;
+  }
+  
+  //Contrast is important for colorblind users to be able to see your content//
+  //Avoid using neighboring hues on the color wheel, especially greens and reds//
