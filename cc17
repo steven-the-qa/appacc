@@ -1,0 +1,6 @@
+ body {
+    color: hsl(0, 55%, 15%);
+    background-color: hsl(120, 25%, 55%);
+  }
+  
+  //Adjusting the lightness argument in the hsl property helps you adjust contrast levels between colors//
