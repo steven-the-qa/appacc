@@ -1,0 +1,8 @@
+   <p>Thank you to everyone for responding to Master Camper Cat's survey. 
+   The best day to host the vaunted Mortal Kombat tournament is 
+   <time datetime="2016-09-15">Thursday, September 15<sup>th</sup></time>. May the best ninja win!</p>
+   
+   //HTML5 has a "time" tag to semantically show a time being referenced in text//
+   //The "time" tag has a "datetime attribute that standardizes times for screen reader users//
+   //When a time or date is referenced in text even colloquially, include a "time" tag with a "datetime" attribute//
+   //This helps screen reader users access these times and dates more easily//
