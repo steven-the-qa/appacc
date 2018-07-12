@@ -1,0 +1,8 @@
+body {
+    color: #636363;
+    background-color: #FFF;
+  }
+  
+  //Contrast ratios are the contrast level between luminance values in the background and text colors//
+  //The WCAG (Web Content Accessibility Guidelines) suggest a 4.5:1 contrast ratio//
+  //There are several contrats checking tools online to verify your contrast level//
