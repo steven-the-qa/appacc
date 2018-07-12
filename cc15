@@ -1,0 +1,24 @@
+  <style>
+  .sr-only {
+    position: absolute;
+    left: 10000px;
+    width: 1px;
+    height: 1px;
+    top: auto;
+    overflow: hidden;
+  }
+  </style>
+
+//These are the CSS rules that allow you to hide something from the visual display but make it available for screen readers//
+
+//"Note
+The following CSS approaches will NOT do the same thing:
+
+
+display: none; or visibility: hidden; hides content for everyone, including screen reader users
+
+Zero values for pixel sizes, such as width: 0px; height: 0px; removes that element from the flow of your document, 
+meaning screen readers will ignore it" --Credit: freeCodeCamp//
+
+
+
