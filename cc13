@@ -1,7 +1,7 @@
 <label for="pickdate">Preferred Date:</label>
         
         <!-- Add your code below this line -->
-        <input type="date" id="pickdate" name="pickdate"></input>
+        <input type="date" id="pickdate" name="date"></input>
         
         //The "date" attribute on an "input" tag gives the user a datepicker to select a date more easily//
         //It's good to have placeholder text or a label that shows the user the correct date format in case the browser doesn't support the datepicker//
