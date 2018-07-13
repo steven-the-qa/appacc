@@ -1,0 +1,7 @@
+    <h2><a id="first" href="" accesskey="g">The Garfield Files: Lasagna as Training Fuel?</a></h2>
+    
+        <h2><a id="second" href="" accesskey="c">Is Chuck Norris a Cat Person?</a></h2>
+        
+        //The "accesskey" attribute can be used with any element in HTML5, but is most useful with interactive ones//
+        //The value of this attribute specifies a shortcut key to activate or focus in on an element//
+        //This can make links navigatable//
