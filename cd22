@@ -1,0 +1,11 @@
+    <input type="search" name="search" id="search" tabindex="1">
+    <input type="submit" name="submit" value="Submit" id="submit" tabindex="2">
+    
+
+
+//"Setting a tabindex="1" will bring keyboard focus to that element first. Then it cycles 
+through the sequence of specified tabindex values (2, 3, etc.), 
+before moving to default and tabindex="0" items." --Credit: freeCodeCamp//
+
+//This overrides the default order for tabbing through a page so make sure it's actually necessary
+before applying it because most users expect to start tabbing from the top of the page//
