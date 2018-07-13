@@ -1,0 +1,11 @@
+      <p tabindex="0">Instructions: Fill in ALL your information then click <b>Submit</b></p>
+      
+      <style>
+  p:focus {
+    background-color: yellow;
+  }
+  </style>
+  
+  //The "tabindex" attribute lets you bring focus to elements that are not normally focused on while tabbing through a page//
+  //:focus is like :hover, where it activates CSS rules in a certain event//
+  //Now when tabbing through a page, when you hit the instructions "p" tag, its background will be yellow!//
